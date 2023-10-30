@@ -1,0 +1,47 @@
+.main{  
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width:80%;
+    margin-top: 5rem;
+    margin-left: 2rem;
+}
+.main-hero-section{
+    display: flex;
+    list-style: none;
+    width:80%;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+    margin-left:15rem;
+    
+}
+.card{
+    width: 25rem;
+    height: 50rem;
+    gap: 2rem;
+    background-color: rgb(251, 251, 252);
+}
+.list-news{
+    display: flex;
+    background-color: red;
+    padding: 1rem;
+    align-items: center;
+    justify-content: center;
+
+}
+.list-news button{
+    display: flex;
+    margin-right: 9px;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    border-radius:6px;
+    font-size: larger;
+    
+    
+
+}
+.button1st{
+    margin-left: 2rem;
+}

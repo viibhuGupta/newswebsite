@@ -1,0 +1,94 @@
+.nav1st{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    background-color: #ffffff;
+    border-top: 1px solid rgb(194, 194, 194);
+    border-bottom:1px solid rgb(194, 194, 194);
+    
+}
+.list-nav1st{
+    display: flex;
+    list-style: none;
+    gap: 8rem;
+}
+.list-nav1st li{
+    gap: 6rem;
+}
+.signup {
+    display: flex;
+    margin-left: 7rem;
+    width: 6rem;
+    background-color: red;
+    border-radius: 3px;
+
+}
+.signupIcon{
+    margin-right: 1rem;
+    margin-top: 5px;
+    
+}
+
+/*  nav 2nd  */
+
+.nav2nd{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    background-color: #002765;
+    border-top: 1px solid rgb(194, 194, 194);
+    border-bottom:1px solid rgb(194, 194, 194);
+    margin-top: 2rem;
+    color: white;
+    padding: 0.6rem;
+}
+.nav2-list2nd{
+    display: flex;
+    list-style: none;
+    gap: 8rem;
+
+
+}
+.text-white{
+    color: white;
+}
+.icons-live-notif{
+    width: 10rem;
+    background-color: red;
+    display: flex;
+}
+.icons-live-notif li {
+    gap: 1rem;
+}
+.icon{
+    margin-left: 1rem;
+}
+
+
+/*  3rd nav  */
+
+.nav3rd{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    border-radius: 30px;
+    margin-top: 40px;
+    width: 70%;
+    background-color: #cf2525;
+    border-top: 1px solid rgb(194, 194, 194);
+    border-bottom:1px solid rgb(194, 194, 194);
+    margin-left: 16rem;
+    color: #ffffff;
+    font-size: larger;
+}
+.nav-list3rd{
+    display: flex;
+    list-style: none;
+    gap: 8rem;
+}
+.lightwhite{
+    color: rgb(238, 234, 234);
+}
